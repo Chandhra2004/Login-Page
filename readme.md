@@ -18,4 +18,4 @@ To view this project, simply open the `index.html` file in a web browser. There 
 
 Below is an example of what the login page looks like when opened.
 
-![Output Image](output.png)
+![Output Image](Output.png)
