@@ -1,3 +1,5 @@
+# Project Overview
+
 To view this project, simply open the `index.html` file in a web browser. There is no additional installation required.
 
 ## Usage
@@ -11,3 +13,9 @@ To view this project, simply open the `index.html` file in a web browser. There 
 
 - `index.html`: The main HTML file containing the structure and styling of the login page.
 - `loginimage.jpg`: The background image used in the project.
+
+## Output Image
+
+Below is an example of what the login page looks like when opened.
+
+![Output Image](output.png)
